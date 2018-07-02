@@ -1,0 +1,16 @@
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('QR','Qatar Airways','DOH','assets/QR.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('LH','Lufthansa','FRA','assets/LH.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('6E','IndiGo','BOM','assets/6E.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('EK','Emirates','DXB','assets/EK.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('AI','Air India','DEL','assets/AI.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('JL','Japan Airlines','HND','assets/JL.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('AF','Air France','CDG','assets/AF.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('BA','British Airways','LHR','assets/BA.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('EY','Etihad airways','AUH','assets/EY.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('DL','Delta Airlines','ATL','assets/DL.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('KL','KLM','AMS','assets/KL.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('TG','Thai Airways','BKK','assets/TG.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('QA','Qantas','SYD','assets/QA.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('9W','Jet Airways','BOM','assets/9W.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES ('SU','Aeroflot Russian Airlines','SVO','assets/SU.png');
+INSERT INTO Airline(code,name,hub_code,image_url) VALUES (NULL,NULL,NULL,NULL);

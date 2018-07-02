@@ -1,0 +1,16 @@
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('VT-EBD','B747',380);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('VT-EFO','B737',150);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('JA8302','B777',200);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('CCCP-65807','TU134',100);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('VT-DEP','A320',130);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('A6-ERG','B777',310);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('A6-EMV','A380',454);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('A6-FEN','A380',430);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('D-ACAT','B747',390);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('A6-EDG','B777',290);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('VT-AXV','B737',150);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('D-ABCE','A380',470);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('F-BHST','B777',300);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('A6-PTS','A380',446);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('HS-TVC','A340',230);
+INSERT INTO Aircraft(tail_num,type,capacity) VALUES ('A7-ADA','A340',224);

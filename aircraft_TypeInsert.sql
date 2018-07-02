@@ -1,0 +1,9 @@
+INSERT INTO Aircraft_Type(name,manufacturer,max_capacity) VALUES ('A380','Airbus',580);
+INSERT INTO Aircraft_Type(name,manufacturer,max_capacity) VALUES ('B747','Boeing',440);
+INSERT INTO Aircraft_Type(name,manufacturer,max_capacity) VALUES ('B787','Boeing',350);
+INSERT INTO Aircraft_Type(name,manufacturer,max_capacity) VALUES ('B777','Boeing',380);
+INSERT INTO Aircraft_Type(name,manufacturer,max_capacity) VALUES ('A340','Airbus',320);
+INSERT INTO Aircraft_Type(name,manufacturer,max_capacity) VALUES ('A320','Airbus',200);
+INSERT INTO Aircraft_Type(name,manufacturer,max_capacity) VALUES ('DC10','McDonnel-Douglas',230);
+INSERT INTO Aircraft_Type(name,manufacturer,max_capacity) VALUES ('B737','Boeing',190);
+INSERT INTO Aircraft_Type(name,manufacturer,max_capacity) VALUES ('TU134','Tupolev',140);
